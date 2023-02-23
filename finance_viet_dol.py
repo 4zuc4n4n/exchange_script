@@ -31,8 +31,8 @@ db='登録先データベース名')
 cursor = connection.cursor()
 
 #googlespreadsheetのAPIへアクセスするためのキー ※為替の取得関連はSpreadsheet内で行っている
-ACCESS_KEY_JSON = '/var/www/html/key/finance_viet_dol/ocrtest-336408-fc27fc519a23.json'
-SPREAD_SHEET_KEY = "1U1AcY-1BA_vFenp0sb7cLMFMH4bHMSjsWl4PSbqbx9g"
+ACCESS_KEY_JSON = 'GCPアクセスキーのディレクトリ名'
+SPREAD_SHEET_KEY = "Spreadsheetのアクセスキー"
 
 #pairカラムに入れる値
 pair = str('USDVND')
