@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ocrtest-336408",
+  "private_key_id": "fc27fc519a232283e312da3bf8e218a38fd07341",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCLodZ+jakx1z5P\n75ng6X4DQCaja/34DIH9rvAZO26rwGhhiZbEc43ccEt4sqwEKTK9kkDveGuWe1+Y\n0BNx+pHRNTBpT//q3sWugUdNrmJ+wJL4SBekrBqM3BvrcCfLxjUbl7/tT6aNHlrK\nw6vxT9GjgFt8Q4XZfTPM7N7/ldr3wa7zHIHGySH4wcmardO+2OSX3ZkmCENXTigr\nMWl+bTm7EOG1pncfJldfKXMTLlBoaY80eJmq9yrdE1aOK0Hccw8/eX5qMrJAx4+k\nknDzs8jNGmDLMNkfGUex64Q/SeYk+RC7WQTk1QRuk4FtY3IWO2DW9AvV07csFdpF\n8M7UeugfAgMBAAECggEALmp2bGw33a8Q8i6SRu8nKfp1vaZk7sNtpMA15RVaFTLp\nH99GZHiLJEeZ9v3h66IsUVMgTdqIXSYW4avtgtqKBXL6bE+hIVi7euZTpxF8gWkP\nkgQZA+8IBmIWz91hBT6Wod0AemkbUtbP1I5WBmoDpKfDAZxKjsEtaoYlHO4aM3hL\np7G66sLfJ5c5IbFH7gUJOkNekjGcKcytlpivGCRi60V7JiwiIMtHsAQ40W4wxh30\nkd+mW4ff9aFtqiwdrXWdMXeGIgorwR2avDw4BdWYXQKh0W3l8Kn7xshK2nRAr3yT\nYzbtALr0Sa+KEwfL+jkHS3L62OqUbkuJ8C/ELY47TQKBgQDC5GdKCxw2q14XcsdW\nukVkkn1ciI/2FveawSn137PRAe/+iTZujEh77SPfPtmM1sKGTASFxv37cRRZc4vh\nuaCsPTpX6J8LsoO0dCrsRIP/l9L7csI9d40e6/51mJVKPdb+FxnKKVbq8+xSFWcg\nhHmLulqdPABBYbbwTEpSsEdppQKBgQC3adNzmS1dHc4yqkKnxqevbrjPt+zO3v7G\nNAZEt9wXW5qcQsFVraXpRdPcd04CuIKXy6e56VdAaGPL5tI2OzadU+U/q4enw0Bu\nvFdGhXCpGnOZWrcPWPtM4XIlkAfkYTvnIV4FK3e995FKNh10x+NFAR9XmwOC8PeR\nT85H86Q3cwKBgGBGorvSJzrehxnASrcOR696KlGm6K8iA2lAmTDsNJFAisVMFUah\nKEGIEVt8Wc4YXXooXWeUuO0YnHvf968nmzba/FJnCQKnSia/6GBVLHv8DW7H7yqc\nP2uSG18OZFmLmQRmdwgGSfjBTPHzvsEykDS1d4QLGvkxg0TL+z9D89M9AoGAMRij\n4JLFQOLEmm1XEGAt7Nj/oaLDQhERM+8jKmvo/1unBGMeK5gjDFGDx8Ur3bCUTJvY\nVvyuPXB0HlW4OYoaMX0Opb99vZuXeMzzs83ufWW2Qfu1euc/xbGng4SNiEW66kDV\nUR70m6ZUfwADXIpRPNxzDllRVFC6hGxPdJU0hR8CgYEArbQ/5pYmGo5b5TC7xRDD\np/0W3Ds/iRErM8pAWEG9iwnJqTXLfJVq8rynHK3wLa7ikRGfZ6iqnLdnX0+9e2Ba\nH/lUeGWa7BWCq2MXB/S+ID4uB7y+4V4toVZr3r5EEGaED5tvDirQpTF5/iBKhJM9\n/4CLgui0UlcF2MOupRQ/KPE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "finance-viet-dol@ocrtest-336408.iam.gserviceaccount.com",
+  "client_id": "114023231193935631667",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/finance-viet-dol%40ocrtest-336408.iam.gserviceaccount.com"
+}
